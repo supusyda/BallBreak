@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "03a0935b-eb04-420c-a92a-c89c89b81d7c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 150,
+  "height": 150,
+  "platformSettings": {},
+  "subMetas": {
+    "OrbsWithOutline_0038_Circle": {
+      "ver": "1.0.4",
+      "uuid": "25a939de-9f99-4580-a4ea-471211a2c7db",
+      "rawTextureUuid": "03a0935b-eb04-420c-a92a-c89c89b81d7c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 150,
+      "height": 150,
+      "rawWidth": 150,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
